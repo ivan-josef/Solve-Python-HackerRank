@@ -15,7 +15,7 @@ This was a challenge proposed by the UFU robotics team, EdromUFU.
 
 ### The challenge
 
-The challenge is to solve all easy exercises and ten medium exercises de python do site HackerRank
+The challenge is to solve all the easy exercises and ten medium python exercises from the HackerRank website
 
 ## My process
 
