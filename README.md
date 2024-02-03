@@ -1,1 +1,1 @@
-100 exercises solved from hackerank 
+one hundred solved hackerank exercises
