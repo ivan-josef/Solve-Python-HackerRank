@@ -2,13 +2,13 @@
 
 Este foi um desafio proposto pela equipe de robótica da UFU, a EdromUFU.
 
-## Índice
+## Table of contents
 
-- [Visão Geral](#visão-geral)
-  - [O desafio](#o-desafio)
-- [Meu processo](#meu-processo)
-  - [Feito com](#feito-com)
-  - [O que eu aprendi](#o-que-eu-aprendi)
+- [Overview](#visão-geral)
+  - [The challenge](#o-desafio)
+- [My process](#meu-processo)
+  - [Built with](#feito-com)
+  - [What I learned](#o-que-eu-aprendi)
 - [Links](#links)
 
 ## Visão Geral
