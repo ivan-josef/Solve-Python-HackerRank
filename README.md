@@ -1,37 +1,35 @@
-## HackerRank Python solved exercises
+## Exercícios de Python resolvidos no HackerRank
 
-This was a challenge proposed by the UFU robotics team, EdromUFU.
+Este foi um desafio proposto pela equipe de robótica da UFU, a EdromUFU.
 
-## Table of contents 
+## Índice
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What i learned](#what-i-learned)
-- [Links](#author)
+- [Visão Geral](#visão-geral)
+  - [O desafio](#o-desafio)
+- [Meu processo](#meu-processo)
+  - [Feito com](#feito-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+- [Links](#links)
 
-## Overview
+## Visão Geral
 
-### The challenge
+### O desafio
 
-The challenge is to solve all the easy exercises and ten medium python exercises from the HackerRank website
+O desafio consiste em resolver todos os exercícios fáceis e dez exercícios de nível médio de Python do site HackerRank.
 
-## My process
+## Meu processo
 
-It was a lot of fun and challenging to solve several exercises in a short time and obviously I sought help many times and
-I can say that I would do this kind of thing again because it's good for learning
+Foi muito divertido e desafiador resolver vários exercícios em um curto período de tempo. Obviamente, busquei ajuda muitas vezes e posso dizer que faria esse tipo de desafio novamente, pois é ótimo para o aprendizado.
 
-### Built with
+### Feito com
 
-- Python and vscode
+- Python e VSCode
 
-### What i learned
+### O que eu aprendi
 
-I learned how to use the basics of libraries like numpy, itertools, collections, math and I learned a lot about sets
-and searching for strings by regex
+Aprendi a usar o básico de bibliotecas como NumPy, itertools, collections e math. Também aprendi muito sobre conjuntos (sets) e busca de strings com Regex (expressões regulares).
 
 ## Links
 
 - HackerRank: [ivan-josef](https://www.hackerrank.com/profile/ivanjosef141)
-- Edromufu Github: [Edrom](https://github.com/edromufu)
+- GitHub da EdromUFU: [Edrom](https://github.com/edromufu)
